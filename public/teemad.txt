@@ -4,7 +4,7 @@ Osalejate soov saavutada, eelnev kogemus.
 Mida koolitusel teeme (nullist chatini)
 
 GENERAL
-kuidas internet töötab: klient - server - db
+kuidas internet töötab: klient(html,css,js) - server(misiganes) - db(sql,mongo)
 mis keeli kasutatakse - areng on olnud järk-järgult netscapest chromeni
 mida tänapäeva kasutaja ootab
 
