@@ -1,7 +1,12 @@
 SISSEJUHATUS
 Minu kogemus
-Osalejate soov saavutada, eelnev kogemus.
-Mida koolitusel teeme (nullist chatini)
+Osalejate küsitlus
+    nimi
+    kogemus arvutitega, programmeerimisega
+    miks siin oled
+Mida koolitusel teeme
+    1. päev: html, css keeled ja jäljendamine
+    2. päev: chat api, ehk JS
 
 GENERAL
 kuidas internet töötab: klient(html,css,js) - server(misiganes) - db(sql,mongo)
@@ -12,7 +17,7 @@ HTML
 head (title, meta, link, script), body
 tekst, div, form, table, pilt, video, audio
 tekst: b, i u, strong, hr, br, h1, h2, h3, p, sup, sub, span, a, ul, ol
-form: label, input (text, checkbox, radio, password, email, range, submit), textarea, button
+form: label, input (text, checkbox, radio, password, email, range, submit), textarea, button, dropdown
 ÜL: 90ndate koduleht
 
 CSS
@@ -23,7 +28,7 @@ layout: display (block, inline, inline-block, none), position (static, relative,
 padding, border, margin (auto), width, height, max-width, min-with
 kujundus: color, background-color, shadow, border-radius
 tekst: font-family, text-align, font-size, text-decoration
-animatsioonid: transform
+animatsioonid: transition
 ÜL: valime lehe mida imiteerida ja paremaks teha
 
 JS
