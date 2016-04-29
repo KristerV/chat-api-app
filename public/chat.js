@@ -102,6 +102,8 @@ Chat = {
 					console.error('ERROR: ' + response.reason)
 				} else if (response.messages.length > 0) {
 
+					// kommentaar
+
 					response.messages.forEach(function(item){
 						$('#messages').append('<p id="'+item._id+'"><b>'+item.username+'</b>: '+ item.message +'</p>')
 						if ($.inArray(item.username, Chat.usersInRoom) === -1) {
